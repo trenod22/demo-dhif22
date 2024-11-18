@@ -1,2 +1,2 @@
-Hello World!
+Now much more friendly Hello World!
 
